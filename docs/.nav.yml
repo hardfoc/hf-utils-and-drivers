@@ -1,0 +1,4 @@
+---
+# Site navigation (mkdocs-awesome-nav): a legacy repository; one page that points to its successor.
+nav:
+  - Home: index.md
